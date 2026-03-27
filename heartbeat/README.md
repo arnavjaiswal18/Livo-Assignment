@@ -7,8 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Demo Mode](https://img.shields.io/badge/Demo%20Mode-No%20API%20keys%20needed-orange?style=flat-square)
 
----
-## Output 
+## Output  link
 ![alt text](image.png)
 ## 🤔 What is Heartbeat?
 

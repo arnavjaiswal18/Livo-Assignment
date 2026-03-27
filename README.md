@@ -8,7 +8,8 @@
 ![Demo Mode](https://img.shields.io/badge/Demo%20Mode-No%20API%20keys%20needed-orange?style=flat-square)
 
 ---
-
+# Output 
+![alt text](image.png)
 ## 🤔 What is Heartbeat?
 
 Heartbeat is a background digest script that runs every **30 minutes** ⏱️ while your laptop is active. It pulls from Gmail, Slack, Linear, and Google Calendar, then presents a prioritised, two-column dashboard:
